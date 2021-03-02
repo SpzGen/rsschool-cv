@@ -24,13 +24,6 @@ header p {
     font-size: 45px;
 }
 
-header nav {
-    list-style: none;
-    display: flex;
-    position: absolute;
-    right: 5px;
-}
-
 header nav ul {
     list-style: none;
     display: flex;
